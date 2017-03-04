@@ -3,10 +3,6 @@ require 'sinatra'
 
 get '/' do
 
-  url = "file:///Users/jessicakirsch/Desktop/online/"
-
-end
-
-get "/sinatra" do
+   send_file "public/index.html"
 
 end
