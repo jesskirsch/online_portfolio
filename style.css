@@ -1,0 +1,104 @@
+*{
+  background-color: rgb(205,229,217);
+}
+
+
+
+
+#name p{
+  margin-top: 200px;
+  font-family: Alex Brush;
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  font-size: 100px;
+  text-align: center;
+}
+
+
+
+/*#google_image img{
+  margin-bottom: 75px;
+  display: block;
+  margin: auto;
+}*/
+
+
+.clearfix{
+  clear: both;
+}
+
+.buttons{
+  top: 65%;
+  left: 27%;
+  /*margin: auto;*/
+  font-family: Avenir, sans-serif;
+  color: #666;
+  text-align: center;
+
+
+
+}
+
+
+button{
+  margin-top: 25px;
+  padding: 5px;
+  background-color: #ffffff;
+  width: 125px;
+  height: 125px;
+  border-radius: 75%;
+  font-size: 19px;
+  border: none;
+  outline: none;
+
+}
+
+.buttons a:link{
+  text-decoration: none;
+  color: #666;
+  background-color: white;
+}
+
+.buttons a:visited{
+  text-decoration: underline;
+  color: #666;
+  background-color: white;
+}
+
+.buttons a:hover{
+  text-decoration: underline;
+  color: #666;
+  background-color: white;
+}
+
+
+
+
+
+#footer{
+  position: fixed;
+  color: #666;
+  font-family: Avenir, sans-serif;
+  bottom: 0;
+  width: 100vw;
+  padding: 10px;
+}
+
+#footer a:link{
+  text-decoration: none;
+  color: #666;
+  padding: 0px 30px;
+}
+
+#footer a:visited{
+  text-decoration: underline;
+  color: #666;
+  padding: 0px 30px;
+}
+
+#footer a:hover{
+  text-decoration: underline;
+  color: #666;
+  padding: 0px 30px;
+}

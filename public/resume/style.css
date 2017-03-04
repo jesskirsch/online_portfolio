@@ -1,0 +1,80 @@
+*{
+  font-family: Avenir;
+}
+
+
+
+
+#name p{
+  margin-top: 200px;
+  font-family: Alex Brush;
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  font-size: 100px;
+  text-align: left;
+}
+
+
+h1{
+  color: #666;
+  font-size: 40px;
+  font-weight: 200;
+}
+
+.job p{
+  color: #666;
+}
+
+.job a:link{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.job a:visited{
+  text-decoration: underline;
+  color: black;
+  font-weight: bold;
+}
+
+.job a:hover{
+  text-decoration: underline;
+  color: black;
+  font-weight: bold;
+}
+
+
+.position{
+  font-weight: bold;
+
+}
+
+
+#footer{
+  position: fixed;
+  color: #666;
+  font-family: Avenir, sans-serif;
+  bottom: 0;
+  width: 100vw;
+  padding: 10px;
+  background-color: rgb(205,229,217);
+}
+#footer a:link{
+  text-decoration: none;
+  color: #666;
+  padding: 0px 30px;
+}
+
+#footer a:visited{
+  text-decoration: underline;
+  color: #666;
+  padding: 0px 30px;
+}
+
+#footer a:hover{
+  text-decoration: underline;
+  color: #666;
+  padding: 0px 30px;
+}
